@@ -88,22 +88,22 @@ Apôs baixar e instalar a jdk o proximo passo vai ser baixar o repositorio.
 Clique em "code":
 <br>
 ![Tutorial_01](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/1ef84f43-80b8-4839-90eb-07a3adca89e6)
-)
+
 <br><br>
 Apos isso clique  em "baixar zip":
 <br>
 ![Tutorial_02](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/99ec3c6a-a8f7-46ea-80b7-dcbf84556c19)
-)
+
 <br><br>
 Abra o documento e extraia a pasta para area de trabalho:
 <br>
 ![Tutorial_03](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/edb929d7-4b60-4f0d-a1bb-1be54e68ecfd)
-)
+
 <br><br>
 Abra a pasta e clique 2 vezes no arquivo .jar:
 <br>
 ![Tutorial_04](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/d45e33f4-0d6e-4d24-ac43-61593e7cd3fb)
-)
+
 <br><br>
 E pronto, o programa em alguns momentos ira se abrir.
 
