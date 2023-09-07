@@ -19,7 +19,7 @@ public class TelaMenuUsuario extends BaseScreen {
     private static int screenWidth = 900;
     private static int screenHeight = 600;
 
-    private JLabel logo = JChallegensKeys.criarImagem(this.getClass().getClassLoader().getResource("imagens/Ah-150px.png"), (int) (screenWidth * 0.15 - 85) , 70, 170, 170);
+    private JLabel logo = JChallegensKeys.criarImagem(this.getClass().getClassLoader().getResource("imagens/Ha-100px.png"), (int) (screenWidth * 0.15 - 85) , 70, 170, 170);
 
     public TelaMenuUsuario(){
         super("Hotel Alura - login", screenWidth, screenHeight);
