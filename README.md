@@ -14,7 +14,7 @@
 * Prestem atenção as orientações de como rodar o programa
 
 <br>
-<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/4f294b9d-d919-4827-9ea8-0062a5f21866" alt="esquilo_" width="150">
+<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/badafd8a-be34-4263-81bb-6632347d48c0" alt="esquilo_" width="150">
 
 <br>
 
@@ -25,7 +25,7 @@
 O **hotel alura** é um programa de criação de reservas para vagas de um hotel imaginario exclusivos para programadores. feito atraves do java Maven e utilizando do JFrame o Hotel Alura apresenta um interface simples e intuitiva para os consumidores, e cadastrar uma vaga nesse hotel não demora mais do que alguns minutos.
 <br><br>
 
-![Image da pagina Inicial do hotel alura](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/2a7e04c0-7228-48e7-80d7-73c52518de9d)
+![Image da pagina Inicial do hotel alura](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/6b5215f9-c587-4b04-88c0-06ef581f717a)
 
 ## 🤖 API Utilizadas: 
 * [JPA](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager) 
@@ -66,15 +66,16 @@ Além de um sistema de login funcional:
 ## 🖼️ Imagens do Projeto
 
 ### Menu principal
-<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/6ae24ebb-4189-4483-87ab-17a87d40e216" alt="Menu Principal" width="500">
+<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/ef09d592-22ec-484a-b4fa-d76ee584df90" alt="Menu Principal" width="500">
 <br><br>
 
 ### Tela de Buscas
-<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/44e0804f-3d71-485b-a661-146b66cd6a4e" alt="Tela de Buscas" width="500">
+<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/8ea268f5-ce48-4e89-9af3-5cb1309403ae" alt="Tela de Buscas" width="500">
 <br><br>
 
 ### Registo hóspedes
-<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/bdfa9d8a-86da-4b00-8676-8cbf828ac49a" alt="Registo hóspedes" width="500">
+
+<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/d183eb20-51b8-4023-bf2d-55cb98e2bac0" alt="Registo hóspedes" width="500">
 
 <br><br>
 ## 💻 Como executar o aplicativo
@@ -86,19 +87,23 @@ Apôs baixar e instalar a jdk o proximo passo vai ser baixar o repositorio.
 ### Baixando o repositorio
 Clique em "code":
 <br>
-![Tutorial_01](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/ee4deeb6-dba1-4be0-99ce-9bc36ca90a1c)
+![Tutorial_01](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/1ef84f43-80b8-4839-90eb-07a3adca89e6)
+)
 <br><br>
 Apos isso clique  em "baixar zip":
 <br>
-![Tutorial_02](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/41799aec-dbc4-4055-a09b-a4975688dcac)
+![Tutorial_02](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/99ec3c6a-a8f7-46ea-80b7-dcbf84556c19)
+)
 <br><br>
 Abra o documento e extraia a pasta para area de trabalho:
 <br>
-![Tutorial_03](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/0e3f35f6-3963-42d1-8be1-81d595808249)
+![Tutorial_03](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/edb929d7-4b60-4f0d-a1bb-1be54e68ecfd)
+)
 <br><br>
 Abra a pasta e clique 2 vezes no arquivo .jar:
 <br>
-![Tutorial_04](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/fcf58a91-0a89-4a40-b783-db20153d594f)
+![Tutorial_04](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/d45e33f4-0d6e-4d24-ac43-61593e7cd3fb)
+)
 <br><br>
 E pronto, o programa em alguns momentos ira se abrir.
 
