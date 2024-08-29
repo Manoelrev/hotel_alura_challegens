@@ -27,7 +27,7 @@ O **hotel alura** é um programa de criação de reservas para vagas de um hotel
 
 ![Image da pagina Inicial do hotel alura](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/6b5215f9-c587-4b04-88c0-06ef581f717a)
 
-## 🤖 API Utilizadas: 
+## 🤖 Bibliotecas Utilizadas: 
 * [JPA](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager) 
 * [H2 Database](https://mvnrepository.com/artifact/com.h2database/h2) 
 * [JCallendar](https://mvnrepository.com/artifact/com.toedter/jcalendar) 
