@@ -8,49 +8,19 @@
 
 <br>
 
-## ⚠️ Avisos principais
-* Marque esse projeto com uma ⭐ caso tenha gostado.
-* Deem seu feedback caso achem algum error ou caso tenham alguma ideia de melhoria no projeto.
-* Prestem atenção as orientações de como rodar o programa
-
-<br>
-<img src="https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/badafd8a-be34-4263-81bb-6632347d48c0" alt="esquilo_" width="150">
-
-<br>
-
-**Enfim vamos as apresentações:**
-
-<br><br>
+## ⚠️ Descrição
 
 O **hotel alura** é um programa de criação de reservas para vagas de um hotel imaginario exclusivos para programadores. feito atraves do java Maven e utilizando do JFrame o Hotel Alura apresenta um interface simples e intuitiva para os consumidores, e cadastrar uma vaga nesse hotel não demora mais do que alguns minutos.
 <br><br>
 
 ![Image da pagina Inicial do hotel alura](https://github.com/Manoelrev/hotel_alura_challegens/assets/92553052/6b5215f9-c587-4b04-88c0-06ef581f717a)
-
+<br>
 ## 🤖 Bibliotecas Utilizadas: 
 * [JPA](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager) 
 * [H2 Database](https://mvnrepository.com/artifact/com.h2database/h2) 
 * [JCallendar](https://mvnrepository.com/artifact/com.toedter/jcalendar) 
 
 <br>
-
-O programa foi feito 100% apenas por eu (dono do repositorio). Apenas se baseando na interface grafica da Alura [Link para o repositorio base](https://github.com/alura-challenges/challenge-one-alura-hotel-br), com meus proprios codigos feitos para facilitar o entendimento dos codigos o maximo possivel:
-
-```java
-    JPanel panel = new JPanel();
-    panel.setBounds(0, 0, (int) (screenWidth * 0.6), screenHeight);
-    panel.setLayout(null);
-    panel.setBackground(Color.WHITE);
-
-    panel.add(JChallegensKeys.criarImagem(this.getClass().getClassLoader().getResource("imagens/Ha-100px.png"), 30, 30, 100,100));
-    panel.add(JChallegensKeys.createText("LOGIN", 180, 80,new Font("Roboto", Font.BOLD, 25), new Color(8,136,198,255)));
-    panel.add(JChallegensKeys.createText("USUARIO", 40, 130,new Font("Roboto", Font.BOLD, 25), new Color(8,136,198,255)));
-    panel.add(usuarioInput);
-    panel.add(JChallegensKeys.createText("SENHA", 40, 250,new Font("arial", Font.BOLD, 20), new Color(8,136,198,255)));
-    panel.add(senhaInput);
-
-    add(buttonConfirm);
-```
 
 ## 🛠️ Principais características do projeto:
 Além de um sistema de login funcional:
